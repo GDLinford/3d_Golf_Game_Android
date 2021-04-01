@@ -1,0 +1,9 @@
+Unity Golf game levels
+
+Level 1 - a simple level to get used to controls
+Level 2 - floating platforms
+level 3 - Bouncing objects
+Level 4 - Combining the two
+Level 5 - Teleports
+Level 6 - Sliding objects
+level 7 - combining the two
